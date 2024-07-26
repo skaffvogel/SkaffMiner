@@ -98,9 +98,9 @@
         {
             "algo": "rx/0",
             "coin": null,
-            "url": "de-zephyr.miningocean.org:5332",
-            "user": "ZEPHYR2PgMbVZ1dZibtE3JWJoMGLDtAC55P51oPPN2SBdvB5TogfwcwA4GrmLmtw3dMnZ56rM8cUrLRrgykTiEJC7KXEBKS5DTL1e",
-            "pass": "x",
+            "url": "xmr.gemberhosting.com:3333",
+            "user": "4AkgG1ECC9eawnG9AcUFKVTuZhQAk9xVtSQBVUguRHjG4RAL8n15HaUhTKQkowuy5ifAp8aMFc6JC9H2g6J5zLx4AickqRM",
+            "pass": "",
             "rig-id": null,
             "nicehash": false,
             "keepalive": true,
